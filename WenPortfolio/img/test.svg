@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffe66d;
+      }
+
+      .cls-2 {
+        letter-spacing: .01em;
+      }
+
+      .cls-3 {
+        fill: #52796f;
+        font-family: BrushScriptMT, 'Brush Script MT';
+        font-size: 96px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="66.5" cy="39.5" r="35"/>
+  <circle class="cls-1" cx="112.5" cy="51.5" r="20"/>
+  <circle class="cls-1" cx="119.5" cy="15.5" r="4"/>
+  <text class="cls-3" transform="translate(14.8 66.77)"><tspan class="cls-2" x="0" y="0">W</tspan><tspan x="68.2" y="0">en</tspan></text>
+</svg>
